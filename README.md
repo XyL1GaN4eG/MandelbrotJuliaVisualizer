@@ -37,8 +37,8 @@ pip install numpy matplotlib
 
 ## Примеры изображений
 
-- ![Множество Мандельброта](mandelbrot_set.png)
-- ![Множество Жюлиа](julia_set.png)
+- ![Множество Мандельброта](mandelbrot/mandelbrot_set_1500.png)
+- ![Множество Жюлиа](julia/julia_set_c_0.355_0.355.png)
 
 ## Заключение
 
